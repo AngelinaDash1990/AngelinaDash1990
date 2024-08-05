@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hi, I am Angelina Prak, an aspiring software developer with goals to become an EXPERT application devloper in the long run.
+
 <!--
 **AngelinaDash1990/AngelinaDash1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
